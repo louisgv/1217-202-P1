@@ -2,6 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/// <summary>
+/// Author: LAB <lab@mail.rit.edu>
+/// Description: Spawn a number of gameobject positioned like an attacking horde
+/// Restriction: N/A
+/// </summary>
 public class HordeSpawner : MonoBehaviour
 {
     public int spawnCount = 108;

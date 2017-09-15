@@ -2,6 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/// <summary>
+/// Author: LAB <lab@mail.rit.edu>
+/// Description: Spawn a number of gameobject positioned randomly
+/// Restriction: N/A
+/// </summary>
 public class RandomSpawner : MonoBehaviour
 {
 

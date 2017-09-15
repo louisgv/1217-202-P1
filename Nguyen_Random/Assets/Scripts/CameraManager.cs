@@ -2,6 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/// <summary>
+/// Author: LAB <lab@mail.rit.edu>
+/// Description: Manage and cycle through a list of camera
+/// Restriction: N/A
+/// </summary>
+
 public class CameraManager : MonoBehaviour
 {
 

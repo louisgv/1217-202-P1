@@ -2,6 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/// <summary>
+/// Author: LAB <lab@mail.rit.edu>
+/// Description: Spawn a number of gameobject positioned in a line, scaled based on Gaussian distribution
+/// Restriction: N/A
+/// </summary>
 public class GaussianSpawner : MonoBehaviour
 {
     public int spawnCount = 9;

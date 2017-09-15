@@ -1,5 +1,10 @@
 ﻿using UnityEngine;
 
+/// <summary>
+/// Author: LAB <lab@mail.rit.edu>
+/// Description: Helper class for math-related things
+/// Restriction: N/A
+/// </summary>
 public class MathHelper {
     /// <summary>
     /// Calculating the Gaussian Distribution
